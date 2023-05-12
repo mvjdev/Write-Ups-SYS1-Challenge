@@ -12,9 +12,9 @@
 4..Click on the top button 'Analyser -> Suivre -> Flux TCP'
 
  5..You see the password on the side PASS
-```
-## TELNET authentification
 
+## TELNET authentification
+```
 ### 1..2..Do as n°1-n°2 above
 
 ### 3..You received a file ch2pcap
@@ -24,9 +24,9 @@
 ## ETHERNET Frame
 
 ### You decode this to base64 then you see the password
-
+```
 ## AUTHENTIFICATION Twitter
-
+```
 ### Click the `Hypertext Transfer Protocol -> Suivre -> Flux TCP`
 
 ## Bluetooth-fichier inconnu
@@ -34,5 +34,5 @@
 ### Click on the top button 'Wireless -> Equipements Bluetooth'
 
 ### Reads the topic
-
+```
 
