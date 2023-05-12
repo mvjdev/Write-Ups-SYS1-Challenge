@@ -1,9 +1,8 @@
 # Write-Ups-SYS1-Challenge
 
 ## FTP authentification
-
-``` 1..First click on `Challenge->Réseau` and you click the link of `FTP-authentification` then `Démarrer`
-
+```
+1..First click on `Challenge->Réseau` and you click the link of `FTP-authentification` then `Démarrer`
 
 2..You received a file ch1pcap
 
@@ -11,8 +10,9 @@
 
 4..Click on the top button 'Analyser -> Suivre -> Flux TCP'
 
- 5..You see the password on the side PASS
+5..You see the password on the side PASS
 
+```
 ## TELNET authentification
 ```
 ### 1..2..Do as n°1-n°2 above
